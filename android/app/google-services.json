@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "269026484497",
+    "project_id": "bmitest-819c7",
+    "storage_bucket": "bmitest-819c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269026484497:android:8a083042f3e4471439acb0",
+        "android_client_info": {
+          "package_name": "com.example.ihateflutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9o_gN_JY8le9ZdM6HsLnKC-AuWTRA5Ss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
